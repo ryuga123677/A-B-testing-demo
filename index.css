@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+.version-a {
+    background-color: blue;
+    color: white;
+}
+
+.version-b {
+    background-color: green;
+    color: white;
+}
